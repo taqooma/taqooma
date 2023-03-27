@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- :satellite: I’m currently working on Death Star.
+- :poop: I’m currently learning DevOps, GitHub to defeat the Revel.
+- :moneybag: I’m looking to collaborate on bounty hunters.
+- :snowboarder: Fun fact: Snowboarding.
+
+
 <!--
 **taqooma/taqooma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
