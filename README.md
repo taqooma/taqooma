@@ -5,10 +5,11 @@
 - :moneybag: I’m looking to collaborate on bounty hunters.
 - :snowboarder: Fun fact: Snowboarding.
 
+Got Emoji here https://www.webfx.com/tools/emoji-cheat-sheet/
+If you know other site, let me know.
 
 <!--
 For emoji
-https://www.webfx.com/tools/emoji-cheat-sheet/
 
 **taqooma/taqooma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
